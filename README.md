@@ -1,3 +1,3 @@
 # College Event Portal
 
-College Event Portal provides students with information about upcoming college activities.
+Students can view upcoming college events and participate in campus activities.
